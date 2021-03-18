@@ -1,4 +1,4 @@
-import Logic.ThreadWrapper;
+import logic.ThreadWrapper;
 
 public class Main {
 

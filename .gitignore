@@ -1,3 +1,5 @@
 .idea
 mutipleThreadFolder.iml
-/META-INF/
+/META-INF/**
+out/**
+*.iml
