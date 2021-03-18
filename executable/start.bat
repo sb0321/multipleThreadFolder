@@ -1,0 +1,1 @@
+java -jar multipleThreadFolder.jar 100 1000
